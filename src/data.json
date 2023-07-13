@@ -1,0 +1,189 @@
+{
+  "columns": [
+    { "id": "number", "title": "Number" },
+    { "id": "title", "title": "Movie" },
+    { "id": "releaseDate", "title": "Release Date" },
+    { "id": "productionBudget", "title": "Production Budget (in $)" },
+    { "id": "worldwideBoxOffice", "title": "Worldwide Box Office (in $)" }
+  ],
+  "rows": [
+    {
+      "number": 1,
+      "releaseDate": "02-05-2008",
+      "title": "Iron Man",
+      "productionBudget": 186000000,
+      "worldwideBoxOffice": 585171547
+    },
+    {
+      "number": 2,
+      "releaseDate": "13-06-2008",
+      "title": "The Incredible Hulk",
+      "productionBudget": 137500000,
+      "worldwideBoxOffice": 265573859
+    },
+    {
+      "number": 3,
+      "releaseDate": "07-05-2010",
+      "title": "Iron Man 2",
+      "productionBudget": 170000000,
+      "worldwideBoxOffice": 621156389
+    },
+    {
+      "number": 4,
+      "releaseDate": "06-05-2011",
+      "title": "Thor",
+      "productionBudget": 150000000,
+      "worldwideBoxOffice": 449326618
+    },
+    {
+      "number": 5,
+      "releaseDate": "22-07-2011",
+      "title": "Captain America: The First Avenger",
+      "productionBudget": 140000000,
+      "worldwideBoxOffice": 370569776
+    },
+    {
+      "number": 6,
+      "releaseDate": "04-05-2012",
+      "title": "The Avengers",
+      "productionBudget": 225000000,
+      "worldwideBoxOffice": 1519479547
+    },
+    {
+      "number": 7,
+      "releaseDate": "03-05-2013",
+      "title": "Iron Man 3",
+      "productionBudget": 200000000,
+      "worldwideBoxOffice": 1215392272
+    },
+    {
+      "number": 8,
+      "releaseDate": "08-11-2013",
+      "title": "Thor: The Dark World",
+      "productionBudget": 150000000,
+      "worldwideBoxOffice": 644602516
+    },
+    {
+      "number": 9,
+      "releaseDate": "04-04-2014",
+      "title": "Captain America: The Winter Soldier",
+      "productionBudget": 170000000,
+      "worldwideBoxOffice": 714401889
+    },
+    {
+      "number": 10,
+      "releaseDate": "01-08-2014",
+      "title": "Guardians of the Galaxy",
+      "productionBudget": 170000000,
+      "worldwideBoxOffice": 771051335
+    },
+    {
+      "number": 11,
+      "releaseDate": "01-05-2015",
+      "title": "Avengers: Age of Ultron",
+      "productionBudget": 330600000,
+      "worldwideBoxOffice": 1408218722
+    },
+    {
+      "number": 12,
+      "releaseDate": "17-07-2015",
+      "title": "Ant-Man",
+      "productionBudget": 130000000,
+      "worldwideBoxOffice": 518860086
+    },
+    {
+      "number": 13,
+      "releaseDate": "06-05-2016",
+      "title": "Captain America: Civil War",
+      "productionBudget": 250000000,
+      "worldwideBoxOffice": 1153304495
+    },
+    {
+      "number": 14,
+      "releaseDate": "04-11-2016",
+      "title": "Doctor Strange",
+      "productionBudget": 165000000,
+      "worldwideBoxOffice": 677323653
+    },
+    {
+      "number": 15,
+      "releaseDate": "05-05-2017",
+      "title": "Guardians of the Galaxy Vol 2",
+      "productionBudget": 200000000,
+      "worldwideBoxOffice": 862888462
+    },
+    {
+      "number": 16,
+      "releaseDate": "07-07-2017",
+      "title": "Spider-Man: Homecoming",
+      "productionBudget": 175000000,
+      "worldwideBoxOffice": 880070886
+    },
+    {
+      "number": 17,
+      "releaseDate": "03-11-2017",
+      "title": "Thor: Ragnarok",
+      "productionBudget": 180000000,
+      "worldwideBoxOffice": 850650283
+    },
+    {
+      "number": 18,
+      "releaseDate": "16-02-2018",
+      "title": "Black Panther",
+      "productionBudget": 200000000,
+      "worldwideBoxOffice": 1346960289
+    },
+    {
+      "number": 19,
+      "releaseDate": "27-04-2018",
+      "title": "Avengers: Infinity War",
+      "productionBudget": 300000000,
+      "worldwideBoxOffice": 2017483467
+    },
+    {
+      "number": 20,
+      "releaseDate": "06-06-2018",
+      "title": "Ant-Man and the Wasp",
+      "productionBudget": 130000000,
+      "worldwideBoxOffice": 361759753
+    },
+    {
+      "number": 21,
+      "releaseDate": "Unknown",
+      "title": "The Eternals",
+      "productionBudget": 0,
+      "worldwideBoxOffice": 0
+    },
+    {
+      "number": 22,
+      "releaseDate": "Unknown",
+      "title": "Black Widow",
+      "productionBudget": 0,
+      "worldwideBoxOffice": 0
+    },
+    {
+      "number": 23,
+      "releaseDate": "08-05-2019",
+      "title": "Captain Marvel",
+      "productionBudget": 0,
+      "worldwideBoxOffice": 0
+    },
+    {
+      "number": 24,
+      "releaseDate": "03-05-2019",
+      "title": "UnreleaseDated Avengers Movie"
+    },
+    {
+      "number": 25,
+      "releaseDate": "05-07-2019",
+      "title": "Spider-Man: Far From Home"
+    },
+    {
+      "number": 26,
+      "releaseDate": "2020",
+      "title": "Guardians of the Galaxy Vol 3",
+      "productionBudget": 0,
+      "worldwideBoxOffice": 0
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+/* main table styles */
+.table {
+    border-collapse: collapse;
+    border-spacing: 0 5px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    width: calc(100% - 20px);
+    margin: 0 auto;
+    background-color: #fff;
+}
+
+@media screen and (min-width: 768px) {
+    .table {
+        width: 680px;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .table {
+        width: 1000px;
+        margin: 0 auto;
+    }
+}
+
+/* table header styles */
+.table th {
+    border-bottom: #666 1px solid;
+    padding: 15px;
+    color: #444;
+}
+
+.table th {
+    text-align: left;
+    font-weight: normal;
+}
+
+.table th button {
+    border: none;
+    background: none;
+    padding: 0;
+    display: block;
+    width: 100%;
+    text-align: inherit;
+    font-size: inherit;
+    color: inherit;
+    cursor: pointer;
+}
+
+.table th button:focus {
+    outline: 0;
+}
+
+.table th.sort button {
+    font-weight: 500;
+}
+
+.table th img {
+    margin-left: 10px;
+    vertical-align: middle;
+}
+
+/* table search styles */
+.table .search {
+    display: flex;
+    align-items: center;
+}
+
+.table .search input {
+    flex: 1;
+    padding: 10px;
+    margin-left: 15px;
+    border: 0;
+    font-size: 14px;
+}
+
+.table .search::before {
+    content: "🔍";
+    padding: 0 10px;
+}
+
+/* table content styles */
+.table .no-results {
+    text-align: center;
+    font-size: 20px;
+}
+
+.table .cell {
+    color: #444;
+}
+
+.cell {
+    padding: 15px;
+}
+
+.cell:empty::after {
+    content: "\200b";
+    visibility: hidden;
+}
+
+.table tr:hover .cell {
+    background: #f9f5f9;
+}
+
+.table td {
+    border-top: #e4dde4 1px solid;
+    padding: 4px 0;
+}
+
+/* type-specific formatting */
+.table .currency {
+    text-align: right;
+}
